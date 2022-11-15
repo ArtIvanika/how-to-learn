@@ -27,7 +27,7 @@
    position: absolute;
    top: 30px;
    left: 64px;
-   background: url("./images/logo_place_header.svg");
+   background: url("../images/logo_place_header.svg");
 }
 
 .logo{
@@ -220,7 +220,7 @@
 }
 
 .feynman__illustration{
-  background: url("./images/feynman.png");
+  background: url("../images/feynman.png");
   position: absolute;
   bottom: 0;
   left: 0;
@@ -240,7 +240,7 @@
 }
 
 .kaufman__triangle{
-  background: url("./images/kaufman-triangle.svg");
+  background: url("../images/kaufman-triangle.svg");
   width: 877px;
   height: 877px;
   z-index: -1;
@@ -283,7 +283,7 @@
 }
 
 .logo_place_footer{
-  background: url("./images/logo_place_footer.svg");
+  background: url("../images/logo_place_footer.svg");
 }
 
 .footer__author{
