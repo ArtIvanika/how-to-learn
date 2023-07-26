@@ -10,6 +10,8 @@
 - transition для изменения ссылок при наведении
 - rotation для анимации некоторых изображений
 
+#ссылка на проект
+https://artivanika.github.io/how-to-learn/
 
 
 
